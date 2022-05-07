@@ -1,0 +1,154 @@
+#topimg {
+  opacity: 50%;
+  width: 1500px;
+  height: 600px;
+}
+
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  header {
+    color: white;
+    overflow: hidden;
+    background: #1d3557;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ 
+h2 {
+    font-family: "Khand", sans-serif;  
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center
+}
+
+.topdown {
+  font-family:'Callibri', 'Trebuchet MS', sans-serif;
+  font-weight: 10px;
+  text-align: center;
+}
+
+/* If the screen size is 1200px wide or more, set the font-size to 80px */
+@media (min-width: 1200px) {
+  .responsive-font-example {
+    font-size: 70px;
+  }
+}
+/* If the screen size is smaller than 1200px, set the font-size to 80px */
+@media (max-width: 1199.98px) {
+  .responsive-font-example {
+    font-size: 50px;
+    text-align: left;
+  }
+}
+
+/* If the screen size is 1200px wide or more, set the font-size to 80px */
+@media (min-width: 1200px) {
+  .responsive-font {
+    font-size: 25px;
+  }
+}
+/* If the screen size is smaller than 1200px, set the font-size to 80px */
+@media (max-width: 1199.98px) {
+  .responsive-font {
+    font-size: 20px;
+    text-align: left;
+  }
+}
+
+.spread {
+  background-color: #f1faee62;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 5px;
+}
+
+.space {
+  margin-left: 5px;
+  color: #001219;
+}
+
+.space-Book-now {
+  margin-left: 5px;
+  background-color: #e63946;
+
+}
+
+@media (min-width: 1200px) {
+  .responsive {
+    margin-bottom: 0px;
+  }
+}
+/* If the screen size is smaller than 1200px, set the font-size to 80px */
+@media (max-width: 1199.98px) {
+  .responsive {
+    margin-bottom: 10px;
+  }
+}
+
+.backgroond-1-color{
+  background-color: #1d3557d7;
+  width: 1499px;
+  height: 325px;
+}
+
+.card {
+  background-color: #457B9D;
+  border: none;
+  color: #F1FAEE;
+}
+
+.card-title{
+  color: #F1FAEE;
+}
+
+.card-new{
+  text-align: center;
+}
+
+.drop {
+  padding-top: 40px;
+}
+
+.resize{
+  width: 00px;
+  height: 500px;
+}
+
+.third {
+  height: 550px;
+  background-color: #F1FAEE;
+}
+
+.align {
+  text-align: center;
+}
+
+footer{
+  background-color: #001219;
+}
+
+h5 {
+  color: #F1FAEE;
+}
+
+.ftop{
+  color: #F1FAEE;
+}
+
+.t-01-p{
+  margin-top: -62px;
+}
+
+.t-02-p{
+  margin-top: -102px;
+}
+
+.t-03-p{
+  margin-top: -122px;
+}
